@@ -33,3 +33,10 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ---
+![Syed's Github Stats](https://github-readme-stats.vercel.app//api?username=Syed-Saqib&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=1f6fea&text_color=fefefe)
+ 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syed-Saqib&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=00ffff&point=ffffff&color=00ffff)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Saqib&theme=dark-smoky&hide_border=true" alt="Syed-Saqib"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=Syed-Saqib&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff)](https://github.com/anuraghazra/github-readme-stats)
