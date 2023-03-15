@@ -6,7 +6,7 @@
 </h1>
 
 > <h1 align="left">Hi 👋, I'm Syed Saquib</h1>
-> <h3 align="left">A beginner programmer from India.</h3>
+> <h3 align="left">A UI/UX Designer & Machine Learning Enthusiast.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Syed-Saqib&label=Profile%20views&color=blue&style=flat" alt="Syed-Saqib" /> </p>
 
 - 🌱 I’m currently doing DSA with C++.
