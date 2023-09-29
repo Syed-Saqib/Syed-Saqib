@@ -13,6 +13,9 @@
 
 - 📫 Always available at **[`syedsaquib6721@gmail.com`](mailto:syedsaquib6721@gmail.com)**
 
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="syed-saquib" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/syed-saquib?trk=profile-badge">Syed Saquib Abbas</a></div>
+              
+
 - 👬 My partners: <a href="https://github.com/var-rishabh" style="text-decoration:none;">`Rishabh`</a> & <a href="https://github.com/nazims-flow">`Nazim`</a>
 
 - ⚡ Other interest : `Video editing` | `Exploring the World!`
